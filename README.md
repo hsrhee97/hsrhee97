@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hansang%20Rhee&fontSize=90)
-
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **hsrhee97/hsrhee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
