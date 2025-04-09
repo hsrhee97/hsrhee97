@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hansang%20Rhee&fontSize=90&fontColor=00FFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hansang%20Rhee&fontSize=90&fontColor=ffc8a3)
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Skills
