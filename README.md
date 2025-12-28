@@ -1,17 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2000&pause=2000&width=435&height=200&lines=%40whoamI;Hansang+Rhee)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-현실의 복잡한 문제를 해결하는 **자율형 에이전트(Autonomous Agents)**와 **지능형 워크플로우**를 설계합니다.
+현실의 복잡한 문제를 해결하기 위해, 실질적인 가치를 만드는 **자율형 에이전트(Autonomous Agents)** 와 **지능형 워크플로우**를 연구하고 설계합니다.
 
 * 🤖 **AI Agent Engineer at Cuchen**
-    * 사용자 건강 데이터 기반 맞춤형 잡곡 배합 추천 에이전트 개발 및 서비스화
-* 🤝 **SynthCity Official Collaborator**
-    * 시계열 데이터 합성 프레임워크 [SynthCity](https://github.com/vanderschaarlab/synthcity) 공식 협업자 및 `syn_seq` 플러그인 개발
+    * 사용자 건강 데이터 분석, 맞춤형 추천, IoT 기기 제어를 자율적으로 수행하는 **Multi-Agent 기반 통합 시스템** 기획 및 개발
+* 🤝 **Official Contributor to [SynthCity](https://github.com/vanderschaarlab/synthcity)** &nbsp;&nbsp; <a href="https://github.com/vanderschaarlab/synthcity"><img src="https://github.com/vanderschaarlab/synthcity/raw/main/docs/logo.png" height="35" align="center"></a>
+    * Cambridge van der Schaar Lab의 세계적인 합성 데이터 오픈소스 라이브러리 공식 기여자
+    * 순차 회귀 기법 기반의 **`syn_seq`** 플러그인 개발 및 메인 레포지토리 등재
 * 📚 **Technical Author**
-    * AI 에이전트 설계 노하우를 담은 **《내 자식 에이전트 키우기》** 집필 중
-
----
-
+    * AI 에이전트 설계 노하우를 담은 [**《내 자식 에이전트 키우기》**](https://wikidocs.net/book/18410) 집필 중
+<br>
 <details open>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> <b>Skills & AI Orchestration</b>
