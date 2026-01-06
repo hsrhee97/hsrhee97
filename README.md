@@ -64,4 +64,4 @@
 🔗 [Check Out My **Portfolio**](https://www.figma.com/proto/ZoGgsuUCm85UCrtd0Yj03D/Hansang-Rhee-Portfolio?page-id=0%3A1&node-id=2-2&p=f&viewport=618%2C389%2C0.07&t=I4I0EOVqKRrJ4Jne-1&scaling=contain&content-scaling=fixed)
 
 ---
-*Last Updated: 2025*
+*Last Updated: 2025/12*
